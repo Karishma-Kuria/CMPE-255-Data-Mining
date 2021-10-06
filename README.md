@@ -1,4 +1,4 @@
-# CMPE-255-Data-Mining \n
+# CMPE-255-Data-Mining
 1: This repository contains colab for data cleaning of Hotel Booking Demand Dataset.
 2: The dataset is downloaded from Kaggle.com and is saved in the same repository in csv file.
 3: The dataset contains the details from 2 hotels 'City Hotel' and 'Resort Hotel'.
