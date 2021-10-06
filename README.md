@@ -7,3 +7,4 @@
 6: Inside the colab I have performed various data cleaning process, like dimentionality reduction, duplicate detection, missing values etc.
 7: It also contains descriptive comments in each step to describe the process.
 8: I have also performed modelling to predict cancellation.
+
